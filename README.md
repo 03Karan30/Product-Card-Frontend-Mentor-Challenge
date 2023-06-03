@@ -3,4 +3,4 @@
 Challenge by Frontend Mentor Website.
 Solution By KARAN PANDEY.
 
-![Screenshot](https://github.com/03Karan30/QR-Code-Frontend-Mentor-Challenge/assets/121372216/57520b73-23f9-440c-9437-2ce97e9a07c4)
+![Overlay-Screenshot](https://github.com/03Karan30/Product-Card-Frontend-Mentor-Challenge/assets/121372216/a8cd1c91-b617-4d02-8613-1ba27419ac16)
